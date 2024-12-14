@@ -52,16 +52,26 @@ Availability_365 :- This is the number of days in the next 365 days that the lis
 **Solution to Business Objective and Conclusion:-**
 What do you suggest the client to achieve Business Objective ?   
 •	We found that Manhattan and Brooklyn have the highest demand for Airbnb rentals in NYC, as more than 90% of listings are in these neighbourhoods. This makes them attractive areas for hosts to invest and list the property.  
-•	Manhattan being major finance hub and having various tourist attraction, parks, important buildings, markets, island and also its substantial number of tourists throughout the year, it makes it the most in demand and expensive place for Airbnb rental properties.  
+  
+•	Manhattan being major finance hub and having various tourist attraction, parks, important buildings, markets, island and also its substantial number of tourists throughout the year, it makes it the most in demand and expensive place for Airbnb rental properties. 
+  
 •	Brooklyn is second in most numbers of listed properties. But listings are cheaper prices as compared to the Manhattan: With most listings located in Williamsburg and Bedford Stuyvesant two neighbourhoods which are very close to Manhattan, hence tourists get the chance to enjoy both boroughs equally while spending less.  
 •	Being close to Manhattan yet having cheaper rates, Williamsburg, Bedford-Stuyvesant, Harlem, Bushwick, and the Upper West Side are the most popular neighbourhoods in terms of listing counts, indicating strong demand for Airbnb rentals in these areas.  
+
 •	Closer the property is to Manhattan most important places higher is the price This makes investing in property in Manhattan may be more lucrative for Airbnb rentals.  
+  
 •	As per the analysis most of the Airbnb rentals are preferred for short-term stays of 1 to 3 days and some for up to week.  
+  
 •	The highest listings on Airbnb are for entire apartments/home and Private Rooms being second and but just little less. But there are very few shared rooms listed. This suggests that travellers preferred to stay in stay in private since say is for very short.  
+  
 •	We also found that the availability of Airbnb rentals varies significantly across neighbourhoods, with some neighbourhoods having a high concentration of listings and others having relatively few.  
+  
 •	The neighbourhoods near the airport in Queens would have a higher average number of reviews, as they are likely to attract a lot of tourists or visitors who are passing through the area. The proximity to the airport could make these neighbourhoods a convenient and appealing place to stay for travellers for short-term stay with spending less money because the price distribution is high in Manhattan and Brooklyn.  
+  
 •	We also found for Manhattan and Brooklyn nearer the property to important places of Manhattan more is the price but in queens closer is the property to airport more is the price.  
+  
 •	We also noted highly reviewed properties have lesser price which indicates traveller do check for reviews and prefer cheaper rental properties.  
+  
 
 **Conclusion: -** Based on above finding Airbnb and property owner can invest the new property to get most income and can also suggest travellers’ best area for say to as per need and spending will.  
 
